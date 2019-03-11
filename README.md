@@ -17,7 +17,7 @@ https://getcomposer.org/doc/00-intro.md#locally
 ## Install
 
 <pre>
-git clone https://duuh30@bitbucket.org/duuh30/blog-challange.git
+git clone https://github.com/duuh30/blogzinho.git
 cd blog-challange
 composer install
 </pre>
