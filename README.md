@@ -2,6 +2,18 @@
 
 A simple and intuitive Blog API
 
+## Requeriments
+<pre>
+PHP >= 7.1
+MySQL Server
+Composer
+</pre>
+
+## Composer Install
+<pre>
+https://getcomposer.org/doc/00-intro.md#locally
+</pre>
+
 ## Install
 
 <pre>
