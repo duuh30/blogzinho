@@ -1,0 +1,18 @@
+BLOG\Domain\Models\Tag:
+  type: entity
+  table: tags
+  id:
+    id:
+      type: integer
+      generator:
+        strategy: AUTO
+  fields:
+    name:
+      type: string
+      length: 45
+      nullable: false
+  manyToMany:
+    posts:
+      targetEntity: Post
+      fetch: EAGER
+      mappedBy: tags

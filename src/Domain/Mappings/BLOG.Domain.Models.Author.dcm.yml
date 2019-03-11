@@ -1,0 +1,13 @@
+BLOG\Domain\Models\Author:
+  type: entity
+  table: authors
+  id:
+    id:
+      type: integer
+      generator:
+        strategy: AUTO
+  fields:
+    name:
+      type: string
+      length: 45
+      nullable: false

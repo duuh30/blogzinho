@@ -1,0 +1,390 @@
+[2019-03-10 16:41:59] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d6671bd"}
+[2019-03-10 16:41:59] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d6671bd"}
+[2019-03-10 16:41:59] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d6671bd"}
+[2019-03-10 16:42:03] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"962e2e2"}
+[2019-03-10 16:42:03] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"962e2e2"}
+[2019-03-10 16:42:03] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"962e2e2"}
+[2019-03-10 16:42:10] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"1640b5e"}
+[2019-03-10 16:42:10] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"1640b5e"}
+[2019-03-10 16:42:10] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"1640b5e"}
+[2019-03-10 16:45:01] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"ad3c60a"}
+[2019-03-10 16:45:01] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"ad3c60a"}
+[2019-03-10 16:45:01] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"ad3c60a"}
+[2019-03-10 16:45:23] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"2f7ff7f"}
+[2019-03-10 16:45:23] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"2f7ff7f"}
+[2019-03-10 16:45:23] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"2f7ff7f"}
+[2019-03-10 16:46:02] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"1ddc94d"}
+[2019-03-10 16:46:02] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"1ddc94d"}
+[2019-03-10 16:46:02] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"1ddc94d"}
+[2019-03-10 16:46:17] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"e792808"}
+[2019-03-10 16:46:17] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"e792808"}
+[2019-03-10 16:46:17] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"e792808"}
+[2019-03-10 16:46:29] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"05a4b3f"}
+[2019-03-10 16:46:29] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"05a4b3f"}
+[2019-03-10 16:46:29] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"05a4b3f"}
+[2019-03-10 16:47:04] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f5af6c2"}
+[2019-03-10 16:47:04] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f5af6c2"}
+[2019-03-10 16:47:04] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f5af6c2"}
+[2019-03-10 17:00:54] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"b9b5807"}
+[2019-03-10 17:00:54] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"b9b5807"}
+[2019-03-10 17:00:54] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"b9b5807"}
+[2019-03-10 17:01:20] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"a5c7b62"}
+[2019-03-10 17:01:20] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"a5c7b62"}
+[2019-03-10 17:01:20] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"a5c7b62"}
+[2019-03-10 17:03:26] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"715f3cc"}
+[2019-03-10 17:03:26] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"715f3cc"}
+[2019-03-10 17:03:26] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"715f3cc"}
+[2019-03-10 17:04:13] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"1b32cdc"}
+[2019-03-10 17:04:13] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"1b32cdc"}
+[2019-03-10 17:04:13] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"1b32cdc"}
+[2019-03-10 17:05:15] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"59869fa"}
+[2019-03-10 17:05:15] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"59869fa"}
+[2019-03-10 17:05:15] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"59869fa"}
+[2019-03-10 17:05:20] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"c3897f1"}
+[2019-03-10 17:05:20] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"c3897f1"}
+[2019-03-10 17:05:20] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"c3897f1"}
+[2019-03-10 17:07:48] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"23dfc22"}
+[2019-03-10 17:07:48] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"23dfc22"}
+[2019-03-10 17:07:48] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"23dfc22"}
+[2019-03-10 17:07:54] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"ca128f4"}
+[2019-03-10 17:07:54] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"ca128f4"}
+[2019-03-10 17:07:54] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"ca128f4"}
+[2019-03-10 17:08:02] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"bebfb1b"}
+[2019-03-10 17:08:02] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"bebfb1b"}
+[2019-03-10 17:08:02] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"bebfb1b"}
+[2019-03-10 17:08:13] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"b203754"}
+[2019-03-10 17:08:13] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"b203754"}
+[2019-03-10 17:08:13] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"b203754"}
+[2019-03-10 17:08:31] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"9b87e22"}
+[2019-03-10 17:08:31] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"9b87e22"}
+[2019-03-10 17:08:31] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"9b87e22"}
+[2019-03-10 17:08:50] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f33a01b"}
+[2019-03-10 17:08:50] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f33a01b"}
+[2019-03-10 17:08:50] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f33a01b"}
+[2019-03-10 17:08:55] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"70b7c00"}
+[2019-03-10 17:08:55] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"70b7c00"}
+[2019-03-10 17:08:55] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"70b7c00"}
+[2019-03-10 17:09:01] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"e5a6cf9"}
+[2019-03-10 17:09:01] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"e5a6cf9"}
+[2019-03-10 17:09:01] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"e5a6cf9"}
+[2019-03-10 17:09:07] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"a9f4ed8"}
+[2019-03-10 17:09:07] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"a9f4ed8"}
+[2019-03-10 17:09:07] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"a9f4ed8"}
+[2019-03-10 17:11:38] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f767263"}
+[2019-03-10 17:11:38] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f767263"}
+[2019-03-10 17:11:38] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f767263"}
+[2019-03-10 17:11:42] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d61e1df"}
+[2019-03-10 17:11:42] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d61e1df"}
+[2019-03-10 17:11:42] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d61e1df"}
+[2019-03-10 17:13:19] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"2786ed0"}
+[2019-03-10 17:13:19] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"2786ed0"}
+[2019-03-10 17:13:19] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"2786ed0"}
+[2019-03-10 17:13:22] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"9cde5b6"}
+[2019-03-10 17:13:22] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"9cde5b6"}
+[2019-03-10 17:13:22] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"9cde5b6"}
+[2019-03-10 17:14:29] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"fb8b25f"}
+[2019-03-10 17:14:29] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"fb8b25f"}
+[2019-03-10 17:14:29] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"fb8b25f"}
+[2019-03-10 17:14:35] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"6ab3a4d"}
+[2019-03-10 17:14:35] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"6ab3a4d"}
+[2019-03-10 17:14:35] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"6ab3a4d"}
+[2019-03-10 17:14:39] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f8fd663"}
+[2019-03-10 17:14:39] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f8fd663"}
+[2019-03-10 17:14:39] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f8fd663"}
+[2019-03-10 17:16:35] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"9764395"}
+[2019-03-10 17:16:35] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"9764395"}
+[2019-03-10 17:16:35] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"9764395"}
+[2019-03-10 17:16:47] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"fa9b36f"}
+[2019-03-10 17:16:47] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"fa9b36f"}
+[2019-03-10 17:16:47] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"fa9b36f"}
+[2019-03-10 17:17:01] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"adb54eb"}
+[2019-03-10 17:17:01] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"adb54eb"}
+[2019-03-10 17:17:01] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"adb54eb"}
+[2019-03-10 17:17:40] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"193270f"}
+[2019-03-10 17:17:40] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"193270f"}
+[2019-03-10 17:17:40] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"193270f"}
+[2019-03-10 17:17:47] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"7e2bb62"}
+[2019-03-10 17:17:47] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"7e2bb62"}
+[2019-03-10 17:17:47] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"7e2bb62"}
+[2019-03-10 17:18:26] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"241c991"}
+[2019-03-10 17:18:26] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"241c991"}
+[2019-03-10 17:18:26] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"241c991"}
+[2019-03-10 17:18:28] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"cd479e0"}
+[2019-03-10 17:18:28] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"cd479e0"}
+[2019-03-10 17:18:28] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"cd479e0"}
+[2019-03-10 17:18:30] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"70e187c"}
+[2019-03-10 17:18:30] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"70e187c"}
+[2019-03-10 17:18:30] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"70e187c"}
+[2019-03-10 17:18:32] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"6f341ad"}
+[2019-03-10 17:18:32] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"6f341ad"}
+[2019-03-10 17:18:32] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"6f341ad"}
+[2019-03-10 17:18:42] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"42d0606"}
+[2019-03-10 17:18:42] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"42d0606"}
+[2019-03-10 17:18:42] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"42d0606"}
+[2019-03-10 17:19:30] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"a6e3086"}
+[2019-03-10 17:19:30] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"a6e3086"}
+[2019-03-10 17:19:30] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"a6e3086"}
+[2019-03-10 17:19:36] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"05428a2"}
+[2019-03-10 17:19:36] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"05428a2"}
+[2019-03-10 17:19:36] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"05428a2"}
+[2019-03-10 17:19:49] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"b45b2a4"}
+[2019-03-10 17:19:49] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"b45b2a4"}
+[2019-03-10 17:19:49] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"b45b2a4"}
+[2019-03-10 18:30:19] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"c43ef6d"}
+[2019-03-10 18:30:19] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"c43ef6d"}
+[2019-03-10 18:30:19] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"c43ef6d"}
+[2019-03-10 18:30:42] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"bfb0e67"}
+[2019-03-10 18:30:42] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"bfb0e67"}
+[2019-03-10 18:30:42] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"bfb0e67"}
+[2019-03-10 18:31:08] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"8fd308d"}
+[2019-03-10 18:31:08] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"8fd308d"}
+[2019-03-10 18:31:08] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"8fd308d"}
+[2019-03-10 18:31:25] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"8ae3045"}
+[2019-03-10 18:31:25] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"8ae3045"}
+[2019-03-10 18:31:25] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"8ae3045"}
+[2019-03-10 18:31:48] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"384f979"}
+[2019-03-10 18:31:48] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"384f979"}
+[2019-03-10 18:31:48] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"384f979"}
+[2019-03-10 18:32:00] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"2960ec3"}
+[2019-03-10 18:32:00] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"2960ec3"}
+[2019-03-10 18:32:00] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"2960ec3"}
+[2019-03-10 18:32:06] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d298608"}
+[2019-03-10 18:32:06] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d298608"}
+[2019-03-10 18:32:06] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d298608"}
+[2019-03-10 18:32:39] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"60239b4"}
+[2019-03-10 18:32:39] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"60239b4"}
+[2019-03-10 18:32:39] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"60239b4"}
+[2019-03-10 18:33:05] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d45c7fe"}
+[2019-03-10 18:33:05] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d45c7fe"}
+[2019-03-10 18:33:05] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d45c7fe"}
+[2019-03-10 22:06:54] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"eb1cf7a"}
+[2019-03-10 22:06:54] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"eb1cf7a"}
+[2019-03-10 22:06:54] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"eb1cf7a"}
+[2019-03-10 22:07:01] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"85a688d"}
+[2019-03-10 22:07:01] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"85a688d"}
+[2019-03-10 22:07:01] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"85a688d"}
+[2019-03-10 22:07:02] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"76eab95"}
+[2019-03-10 22:07:02] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"76eab95"}
+[2019-03-10 22:07:02] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"76eab95"}
+[2019-03-10 22:07:03] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d5f1edf"}
+[2019-03-10 22:07:03] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d5f1edf"}
+[2019-03-10 22:07:03] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d5f1edf"}
+[2019-03-10 22:07:04] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"4b4de87"}
+[2019-03-10 22:07:04] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"4b4de87"}
+[2019-03-10 22:07:04] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"4b4de87"}
+[2019-03-11 00:12:08] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"4a04ade"}
+[2019-03-11 00:12:08] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"4a04ade"}
+[2019-03-11 00:12:08] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"4a04ade"}
+[2019-03-11 00:12:21] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"c021dde"}
+[2019-03-11 00:12:21] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"c021dde"}
+[2019-03-11 00:12:21] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"c021dde"}
+[2019-03-11 00:12:32] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"4335a09"}
+[2019-03-11 00:12:32] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"4335a09"}
+[2019-03-11 00:12:32] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"4335a09"}
+[2019-03-11 00:12:43] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"81fc0d0"}
+[2019-03-11 00:12:43] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"81fc0d0"}
+[2019-03-11 00:12:43] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"81fc0d0"}
+[2019-03-11 00:12:45] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"0ce4422"}
+[2019-03-11 00:12:45] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"0ce4422"}
+[2019-03-11 00:12:45] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"0ce4422"}
+[2019-03-11 00:12:46] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"3483a4c"}
+[2019-03-11 00:12:46] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"3483a4c"}
+[2019-03-11 00:12:46] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"3483a4c"}
+[2019-03-11 00:17:08] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d5389b5"}
+[2019-03-11 00:17:08] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d5389b5"}
+[2019-03-11 00:17:08] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d5389b5"}
+[2019-03-11 00:17:24] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d19fd56"}
+[2019-03-11 00:17:24] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d19fd56"}
+[2019-03-11 00:17:24] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d19fd56"}
+[2019-03-11 00:18:28] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"a4bcda2"}
+[2019-03-11 00:18:28] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"a4bcda2"}
+[2019-03-11 00:18:28] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"a4bcda2"}
+[2019-03-11 00:19:10] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"047875a"}
+[2019-03-11 00:19:10] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"047875a"}
+[2019-03-11 00:19:10] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"047875a"}
+[2019-03-11 00:19:27] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"3d5412c"}
+[2019-03-11 00:19:27] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"3d5412c"}
+[2019-03-11 00:19:27] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"3d5412c"}
+[2019-03-11 00:19:42] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"24e1231"}
+[2019-03-11 00:19:42] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"24e1231"}
+[2019-03-11 00:19:42] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"24e1231"}
+[2019-03-11 00:19:52] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f59d91b"}
+[2019-03-11 00:19:52] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f59d91b"}
+[2019-03-11 00:19:52] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f59d91b"}
+[2019-03-11 00:20:27] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"ccc2641"}
+[2019-03-11 00:20:27] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"ccc2641"}
+[2019-03-11 00:20:27] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"ccc2641"}
+[2019-03-11 00:21:36] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"239f69d"}
+[2019-03-11 00:21:36] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"239f69d"}
+[2019-03-11 00:21:36] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"239f69d"}
+[2019-03-11 00:22:02] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"de0b8f5"}
+[2019-03-11 00:22:02] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"de0b8f5"}
+[2019-03-11 00:22:02] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"de0b8f5"}
+[2019-03-11 00:22:20] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"5bab7f3"}
+[2019-03-11 00:22:20] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"5bab7f3"}
+[2019-03-11 00:22:20] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"5bab7f3"}
+[2019-03-11 00:22:37] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"ffbc33b"}
+[2019-03-11 00:22:37] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"ffbc33b"}
+[2019-03-11 00:22:37] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"ffbc33b"}
+[2019-03-11 00:22:42] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"ffc3d6f"}
+[2019-03-11 00:22:42] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"ffc3d6f"}
+[2019-03-11 00:22:42] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"ffc3d6f"}
+[2019-03-11 00:22:53] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"3ac6600"}
+[2019-03-11 00:22:53] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"3ac6600"}
+[2019-03-11 00:22:53] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"3ac6600"}
+[2019-03-11 00:23:36] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"44d536e"}
+[2019-03-11 00:23:36] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"44d536e"}
+[2019-03-11 00:23:36] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"44d536e"}
+[2019-03-11 00:23:39] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"eca67bb"}
+[2019-03-11 00:23:39] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"eca67bb"}
+[2019-03-11 00:23:39] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"eca67bb"}
+[2019-03-11 00:24:13] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"8384201"}
+[2019-03-11 00:24:13] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"8384201"}
+[2019-03-11 00:24:13] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"8384201"}
+[2019-03-11 00:24:34] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"7769894"}
+[2019-03-11 00:24:34] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"7769894"}
+[2019-03-11 00:24:34] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"7769894"}
+[2019-03-11 00:24:56] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"093896f"}
+[2019-03-11 00:24:56] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"093896f"}
+[2019-03-11 00:24:56] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"093896f"}
+[2019-03-11 00:25:07] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"11fea5a"}
+[2019-03-11 00:25:07] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"11fea5a"}
+[2019-03-11 00:25:07] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"11fea5a"}
+[2019-03-11 00:25:14] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"ec07bd1"}
+[2019-03-11 00:25:14] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"ec07bd1"}
+[2019-03-11 00:25:14] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"ec07bd1"}
+[2019-03-11 00:25:19] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"a9c545d"}
+[2019-03-11 00:25:19] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"a9c545d"}
+[2019-03-11 00:25:19] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"a9c545d"}
+[2019-03-11 00:26:15] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"9acc077"}
+[2019-03-11 00:26:15] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"9acc077"}
+[2019-03-11 00:26:15] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"9acc077"}
+[2019-03-11 00:26:53] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"5fa690f"}
+[2019-03-11 00:26:53] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"5fa690f"}
+[2019-03-11 00:26:53] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"5fa690f"}
+[2019-03-11 00:29:56] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"228902c"}
+[2019-03-11 00:29:56] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"228902c"}
+[2019-03-11 00:29:56] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"228902c"}
+[2019-03-11 00:37:48] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"879f53a"}
+[2019-03-11 00:37:48] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"879f53a"}
+[2019-03-11 00:37:48] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"879f53a"}
+[2019-03-11 00:37:52] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"15b0e1a"}
+[2019-03-11 00:37:52] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"15b0e1a"}
+[2019-03-11 00:37:52] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"15b0e1a"}
+[2019-03-11 00:42:12] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f376244"}
+[2019-03-11 00:42:12] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f376244"}
+[2019-03-11 00:42:12] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f376244"}
+[2019-03-11 00:42:28] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"6290522"}
+[2019-03-11 00:42:28] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"6290522"}
+[2019-03-11 00:42:28] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"6290522"}
+[2019-03-11 00:45:19] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"19bef17"}
+[2019-03-11 00:45:19] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"19bef17"}
+[2019-03-11 00:45:19] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"19bef17"}
+[2019-03-11 00:50:20] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"7b3f4dc"}
+[2019-03-11 00:50:20] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"7b3f4dc"}
+[2019-03-11 00:50:20] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"7b3f4dc"}
+[2019-03-11 00:54:14] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"6de070f"}
+[2019-03-11 00:54:14] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"6de070f"}
+[2019-03-11 00:54:14] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"6de070f"}
+[2019-03-11 00:54:27] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f15efe7"}
+[2019-03-11 00:54:27] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f15efe7"}
+[2019-03-11 00:54:27] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f15efe7"}
+[2019-03-11 00:55:26] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"8d73416"}
+[2019-03-11 00:55:26] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"8d73416"}
+[2019-03-11 00:55:26] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"8d73416"}
+[2019-03-11 00:55:38] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"e424c40"}
+[2019-03-11 00:55:38] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"e424c40"}
+[2019-03-11 00:55:38] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"e424c40"}
+[2019-03-11 00:57:25] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"8e9125f"}
+[2019-03-11 00:57:25] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"8e9125f"}
+[2019-03-11 00:57:25] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"8e9125f"}
+[2019-03-11 00:57:48] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"9fa44fe"}
+[2019-03-11 00:57:48] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"9fa44fe"}
+[2019-03-11 00:57:48] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"9fa44fe"}
+[2019-03-11 00:57:52] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"e947f9a"}
+[2019-03-11 00:57:52] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"e947f9a"}
+[2019-03-11 00:57:52] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"e947f9a"}
+[2019-03-11 00:58:45] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"6110460"}
+[2019-03-11 00:58:45] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"6110460"}
+[2019-03-11 00:58:45] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"6110460"}
+[2019-03-11 00:58:54] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f6445c6"}
+[2019-03-11 00:58:54] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f6445c6"}
+[2019-03-11 00:58:54] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f6445c6"}
+[2019-03-11 00:59:02] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"74d6fb7"}
+[2019-03-11 00:59:02] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"74d6fb7"}
+[2019-03-11 00:59:02] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"74d6fb7"}
+[2019-03-11 00:59:06] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"b8d1cbc"}
+[2019-03-11 00:59:06] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"b8d1cbc"}
+[2019-03-11 00:59:06] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"b8d1cbc"}
+[2019-03-11 00:59:13] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"f80dbec"}
+[2019-03-11 00:59:13] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"f80dbec"}
+[2019-03-11 00:59:13] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"f80dbec"}
+[2019-03-11 00:59:16] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"fa48acb"}
+[2019-03-11 00:59:16] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"fa48acb"}
+[2019-03-11 00:59:16] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"fa48acb"}
+[2019-03-11 00:59:27] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"02e226e"}
+[2019-03-11 00:59:27] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"02e226e"}
+[2019-03-11 00:59:27] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"02e226e"}
+[2019-03-11 00:59:29] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"2f21ed3"}
+[2019-03-11 00:59:29] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"2f21ed3"}
+[2019-03-11 00:59:29] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"2f21ed3"}
+[2019-03-11 07:56:44] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"b1de091"}
+[2019-03-11 07:56:44] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"b1de091"}
+[2019-03-11 07:56:44] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"b1de091"}
+[2019-03-11 07:57:46] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"71b7d27"}
+[2019-03-11 07:57:46] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"71b7d27"}
+[2019-03-11 07:57:46] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"71b7d27"}
+[2019-03-11 07:59:00] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"556a5b8"}
+[2019-03-11 07:59:00] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"556a5b8"}
+[2019-03-11 07:59:00] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"556a5b8"}
+[2019-03-11 07:59:24] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"2ee67af"}
+[2019-03-11 07:59:24] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"2ee67af"}
+[2019-03-11 07:59:24] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"2ee67af"}
+[2019-03-11 08:01:01] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"7a0e11f"}
+[2019-03-11 08:01:01] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"7a0e11f"}
+[2019-03-11 08:01:01] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"7a0e11f"}
+[2019-03-11 08:01:19] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"2fca756"}
+[2019-03-11 08:01:19] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"2fca756"}
+[2019-03-11 08:01:19] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"2fca756"}
+[2019-03-11 08:05:38] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"28dc8b0"}
+[2019-03-11 08:05:38] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"28dc8b0"}
+[2019-03-11 08:05:38] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"28dc8b0"}
+[2019-03-11 08:09:48] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"c7e846b"}
+[2019-03-11 08:09:48] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"c7e846b"}
+[2019-03-11 08:09:48] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"c7e846b"}
+[2019-03-11 08:11:05] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"35382d6"}
+[2019-03-11 08:11:05] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"35382d6"}
+[2019-03-11 08:11:05] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"35382d6"}
+[2019-03-11 08:13:50] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"82858d8"}
+[2019-03-11 08:13:50] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"82858d8"}
+[2019-03-11 08:13:50] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"82858d8"}
+[2019-03-11 08:14:14] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"4de6192"}
+[2019-03-11 08:14:14] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"4de6192"}
+[2019-03-11 08:14:14] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"4de6192"}
+[2019-03-11 08:14:40] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"1a65dae"}
+[2019-03-11 08:14:40] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"1a65dae"}
+[2019-03-11 08:14:40] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"1a65dae"}
+[2019-03-11 08:14:45] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"457b4b3"}
+[2019-03-11 08:14:45] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"457b4b3"}
+[2019-03-11 08:14:45] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"457b4b3"}
+[2019-03-11 08:16:25] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"19bf10d"}
+[2019-03-11 08:16:25] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"19bf10d"}
+[2019-03-11 08:16:25] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"19bf10d"}
+[2019-03-11 08:18:02] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"2fa2655"}
+[2019-03-11 08:18:02] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"2fa2655"}
+[2019-03-11 08:18:02] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"2fa2655"}
+[2019-03-11 08:18:11] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"0a3df43"}
+[2019-03-11 08:18:11] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"0a3df43"}
+[2019-03-11 08:18:11] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"0a3df43"}
+[2019-03-11 08:19:28] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"d761d9f"}
+[2019-03-11 08:19:28] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"d761d9f"}
+[2019-03-11 08:19:28] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"d761d9f"}
+[2019-03-11 08:21:33] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"faaff0a"}
+[2019-03-11 08:21:33] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"faaff0a"}
+[2019-03-11 08:21:33] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"faaff0a"}
+[2019-03-11 08:22:22] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"45ce98e"}
+[2019-03-11 08:22:22] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"45ce98e"}
+[2019-03-11 08:22:22] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"45ce98e"}
+[2019-03-11 08:22:34] blog-challenge-logs.DEBUG: CORS analysis for request started. [] {"uid":"1248d2b"}
+[2019-03-11 08:22:34] blog-challenge-logs.INFO: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"} {"uid":"1248d2b"}
+[2019-03-11 08:22:34] blog-challenge-logs.DEBUG: CORS analysis for request completed. [] {"uid":"1248d2b"}
